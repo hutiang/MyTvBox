@@ -15,6 +15,7 @@ CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV6,mitv://generationnexxxt.com:19806/3ec70c48b2024e4f9210169aec2914c7
 CCTV7,http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
 CCTV7,mitv://generationnexxxt.com:19806/e70ef03e57794075962ec3960df5b167
+cc
 CCTV8,http://58.248.112.205:8006/GD_CUCC/G_CCTV-8-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYZxg8b1eRG7LTk8x07GrI44Cftlba08rT1Q6udDNxyt
 CCTV8,https://z02.ubtvfans.com/live/rx1/208/c11e1abfdb3e38f2c3427a2d50622889/index.m3u8
 CCTV8,mitv://generationnexxxt.com:19806/7c422f17b94c47928316bba288c64a25
