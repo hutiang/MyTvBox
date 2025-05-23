@@ -548,7 +548,7 @@
       }
     }
   ],
-  "lives":[{"name":"电视直播","type":0,"url":"./tvlive/result.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+  "lives":[{"name":"电视直播","type":0,"url":"./tvlive/result1.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "rules": [
     {
       "name": "量子",
