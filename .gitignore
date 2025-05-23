@@ -1,2 +1,7 @@
-tvlive/main.py
-tvlive/TvBox.py
+tvbox/tvlive/main.py
+tvbox/tvlive/TvBox.py
+tvbox/TvBox.py
+dist
+build
+updates/multicast/multicast_region_result.json
+.idea
